@@ -1,7 +1,7 @@
 #  Water Su 蘇育褘 
 ## Senior Mobile App Developer
 
-> [water.su@me.com](water.su@me.com)  
+> [water.su@me.com](mailto:water.su@me.com)  
 > Linked-In: [water su](http://tw.linkedin.com/in/watersu)    
 > GitHub: [water-su](https://github.com/water-su)  
 > +886-953-904-603  
