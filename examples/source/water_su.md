@@ -102,6 +102,6 @@ Bachelor's degree
 
 ### Footer {#footer}
 
-Water Su -- [water.su@me.com](mailto:water.su@me.com) -- +886-953-904-603 -- Last update: 2015/02/15
+Water Su -- [water.su@me.com](mailto:water.su@me.com) -- +886-953-904-603 --Updated on: 2015/02/15
 
 ------
