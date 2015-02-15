@@ -73,6 +73,14 @@ GSiMedia 全球商業網
    -- __2014.11__  
   [1129VDay for iOS](https://github.com/appy-tw/1129ios) 協助地圖顯示相關功能。
 
+### Other Project {#other}
+[Airmail Translation Project](https://crowdin.com/project/airmailappcom)
+: *Translator*
+  協助翻譯軟體介面文字  
+
+[WhatsApp Translation Project](http://translate.whatsapp.com)
+: *Translator*
+  協助翻譯軟體介面文字
 
 
 ------
