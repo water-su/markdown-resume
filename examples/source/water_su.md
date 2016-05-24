@@ -4,6 +4,7 @@
 > [water.su@me.com](mailto:water.su@me.com)  
 > Linked-In: [water su](http://tw.linkedin.com/in/watersu)    
 > GitHub: [water-su](https://github.com/water-su)  
+> Blog: [我在這裡，對自己誠實](http://water-yh-su.blogspot.tw/search/label/Develop)  
 > +886-953-904-603  
 
 ------
@@ -20,7 +21,7 @@
 ### Skills {#skills}
 
 * iOS App Development
-  : 3+ years of working experience in iOS application development. Including Coredata, multi-thread development, httpd integration, Hybrid development(native/web), Map API, [Parse API](https://parse.com)...
+  : 4+ years of working experience in iOS application development. Including Coredata, multi-thread development, httpd integration, Hybrid development(native/web), Map API, [Parse API](https://parse.com)...
 
 * Android App Development
   : 2+ years of working experience in Android application development.
@@ -30,16 +31,16 @@
 
 ### Technical {#technical}
 
-1. iOS
-2. Objective-C
-3. Swift
-4. Git/SVN
-6. Android
-7. Java
-8. Linux
-9. JavaScript/HTML
+1. iOS / Objective-C
+2. Git / SVN
+3. Android / Java
+4. Parse Server
+5. Ruby on Rails
 
 ------
+### Recently
+離開前一份工作後，進入創業的未知旅程中探索。研究涉獵各種創業所需的開發或分析工具。
+目前正專注於打造一個關於商品價格記錄的自有產品App，從UI流程規劃到軟體架構，App端到Server端，從開發到行銷推廣全部一手包辦。
 
 ### Experience {#experience}
 
@@ -102,6 +103,6 @@ Bachelor's degree
 
 ### Footer {#footer}
 
-Water Su -- [water.su@me.com](mailto:water.su@me.com) -- +886-953-904-603 --Updated on: 2015/02/15
+Water Su -- [water.su@me.com](mailto:water.su@me.com) -- +886-953-904-603 --Updated on: 2016/05/24
 
 ------
