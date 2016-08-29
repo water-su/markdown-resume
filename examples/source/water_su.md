@@ -21,7 +21,7 @@
 ### Skills {#skills}
 
 * iOS App Development
-  : 4+ years of working experience in iOS application development. Including Coredata, multi-thread development, httpd integration, Hybrid development(native/web), Map API, [Parse API](https://parse.com)...
+  : 6+ years of working experience in iOS application development. Including Coredata, multi-thread development, httpd integration, Hybrid development(native/web), Map API, [Parse API](https://parse.com)...
 
 * Android App Development
   : 2+ years of working experience in Android application development.
@@ -31,7 +31,7 @@
 
 ### Technical {#technical}
 
-1. iOS / Objective-C
+1. iOS / Objective-C / Swift
 2. Git / SVN
 3. Android / Java
 4. Parse Server
@@ -42,13 +42,17 @@
 離開前一份工作後，進入創業的未知旅程中探索。研究涉獵各種創業所需的開發或分析工具。
 目前正專注於打造一個關於商品價格記錄的自有產品App，從UI流程規劃到軟體架構，App端到Server端，從開發到行銷推廣全部一手包辦。
 
-### Experience {#experience}
+* 2015.04 成立 [IIWA Design co. ltd.](http://www.iiwa-design.com)
+* 2016.08.06 第一個iOS App產品 [Keeprice - 管價格](https://itunes.apple.com/tw/app/keeprice-guan-jia-ge/id1078845708?l=zh&mt=8) 正式上架。致力於解決人們在購物時的痛苦。
+  - Keeprice - 管價格 on [iTunes Store](https://itunes.apple.com/tw/app/keeprice-guan-jia-ge/id1078845708?l=zh&mt=8)
 
+
+### Experience {#experience}
 AP-Mobile 力揚科技
 : *Technical Lead Engineer*
    -- __2014.05-2014.09__  
-  負責主力產品 [天天-記著你的大小事](http://lovelyday.cc) iOS App 開發。包含UI/UX共同設計，介面設計開發，介接Server API，介接FB API，商城規劃設計開發。  
-  協調與server side及外包Android App之間的合作。  
+  負責主力產品 [天天-記著你的大小事](https://itunes.apple.com/tw/app/tian-tian-ji-zhe-nai-da-xiao/id799322326?l=zh&mt=8) iOS App 開發。包含UI/UX共同設計，介面設計開發，介接Server API，介接FB API，商城規劃設計開發。  
+  協調與server side及外包Android App之間的合作。 *(現已停止運作)*
 
 
 GSiMedia 全球商業網
@@ -103,6 +107,6 @@ Bachelor's degree
 
 ### Footer {#footer}
 
-Water Su -- [water.su@me.com](mailto:water.su@me.com) -- +886-953-904-603 --Updated on: 2016/05/24
+Water Su -- [water.su@me.com](mailto:water.su@me.com) -- +886-953-904-603 --Updated on: 2016/08/29
 
 ------
